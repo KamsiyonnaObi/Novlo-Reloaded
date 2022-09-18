@@ -5,7 +5,7 @@
       <h1>{{ msg }}</h1>
       <p>
         View Kamsiyonna's Films on his YouTube<br />
-        check out the
+        check out th
         <a
           href="https://www.youtube.com/channel/UCQNhudVAA3ucjeLmTJfLfLg"
           target="_blank"
