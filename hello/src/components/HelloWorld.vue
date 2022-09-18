@@ -1,16 +1,4 @@
 <template>
-<<<<<<< HEAD
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      Check out the latest episodes of
-      
-      <a href="https://www.youtube.com/channel/UCQNhudVAA3ucjeLmTJfLfLg" target="_blank" rel="noopener"> On The Block Podcast!</a>.
-    </p>
-
-   
-
-=======
   <div class="Novlo">
 
     <div>
@@ -110,7 +98,6 @@
         </li>
       </ul>
     </div>
->>>>>>> Vuetify
   </div>
 </template>
 
