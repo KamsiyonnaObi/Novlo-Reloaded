@@ -1,6 +1,5 @@
 <template>
   <div class="Novlo">
-    <img height="auto" src="../assets/NOVLO.png" />
 
     <div>
       <h1>{{ msg }}</h1>
